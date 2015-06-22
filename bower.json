@@ -1,0 +1,27 @@
+{
+  "name": "mean_app",
+  "version": "0.0.0",
+  "authors": [
+    "Dapeng Li <dapeng.li@betvictor.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vender",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toaster": "~0.4.14",
+    "angular": "~1.4.1",
+    "angular-resource": "~1.4.1",
+    "angular-route": "~1.4.1"
+  }
+}
